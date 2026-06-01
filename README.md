@@ -3,6 +3,7 @@
 ### Full Stack Developer — Backend at heart
 
 Apasionado por construir sistemas escalables y confiables. Me especializo en el desarrollo backend pero también disfruto crear interfaces limpias y funcionales. Me motiva resolver problemas técnicos complejos y ver ideas cobrar vida en código.
+📍 Bogotá, Colombia &nbsp;|&nbsp; 📧 [colmenares8093@outlook.com](mailto:colmenares8093@outlook.com)
 
 ---
 
@@ -69,8 +70,8 @@ Landing page para empresa de cargue y distribución de implementos para la siemb
 
 ## 🌐 Encuéntrame en
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/thomas-colmenares-65a370339)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://www.linkedin.com/in/thomas-colmenares-65a370339/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-colmenares-65a370339/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TFColmenares)
 
 ---
 
