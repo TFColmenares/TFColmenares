@@ -62,15 +62,15 @@ Landing page para empresa de cargue y distribución de implementos para la siemb
 
 ## 📊 GitHub Stats
 
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TColmenares&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TColmenares&layout=compact&theme=dark&hide_border=true)
+![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TFColmenares&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TFColmenares&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 🌐 Encuéntrame en
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/thomas-colmenares-65a370339)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TFColmenares)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://www.linkedin.com/in/thomas-colmenares-65a370339/)
 
 ---
 
