@@ -3,7 +3,8 @@
 ### Full Stack Developer — Backend at heart
 
 Apasionado por construir sistemas escalables y confiables. Me especializo en el desarrollo backend pero también disfruto crear interfaces limpias y funcionales. Me motiva resolver problemas técnicos complejos y ver ideas cobrar vida en código.
-!📍 Bogotá, Colombia &nbsp;|&nbsp; 📧 [colmenares8093@outlook.com](mailto:colmenares8093@outlook.com)
+
+📍 Bogotá, Colombia &nbsp;|&nbsp; 📧 [colmenares8093@outlook.com](mailto:colmenares8093@outlook.com)
 
 ---
 
