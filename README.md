@@ -64,8 +64,9 @@ Landing page para empresa de cargue y distribución de implementos para la siemb
 
 ## 📊 GitHub Stats
 
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TFColmenares&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TFColmenares&layout=compact&theme=dark&hide_border=true)
+![Thomas's GitHub stats](https://github-stats-alpha.vercel.app/api?username=TFColmenares&cc=000&tc=fff&ic=fff&bc=000)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TFColmenares&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
